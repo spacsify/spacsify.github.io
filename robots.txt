@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://spacsify.github.io/sitemap.html.gz
+Sitemap: https://spacsify.github.io/app/sitemap.html.gz
+Sitemap: https://spacsify.github.io/assets/sitemap.html.gz
+Sitemap: https://spacsify.github.io/css/sitemap.html.gz
+Sitemap: https://spacsify.github.io/includes/sitemap.html.gz
+Sitemap: https://spacsify.github.io/item/sitemap.html.gz
+Sitemap: https://spacsify.github.io/src/sitemap.html.gz
